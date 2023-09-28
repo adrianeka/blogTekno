@@ -72,3 +72,7 @@ table.thead-border > tbody > tr > th, table.thead-border > tbody > tr > td {
 td:hover .control-buttons{
     display: flex;
 }
+
+.bg-detail{
+    background-image: url('/public/assets/bg1.png');
+}
